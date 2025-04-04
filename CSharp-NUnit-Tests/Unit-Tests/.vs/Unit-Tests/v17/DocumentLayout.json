@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3C4693F-BD41-46DB-8377-1226FFC9379B}|BombTests\\BombTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\bombtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C4693F-BD41-46DB-8377-1226FFC9379B}|BombTests\\BombTests.csproj|solutionrelative:bombtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C19EEC-2AC2-4E0D-869C-7822B0F5C024}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Task_BudgetFishingTrip.csproj|c:\\softuni exercises\\cs exercises\\task_budgetfishingtrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446D392-5D16-44C1-83D9-A3604AD7769A}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_Bomb\\Task_Bomb.csproj|c:\\softuni exercises\\cs exercises\\task_bomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2787541E-14EE-4B29-B4AC-4B36B2039D43}|BudgetFishingTripTests\\BudgetFishingTripTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\budgetfishingtriptests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2787541E-14EE-4B29-B4AC-4B36B2039D43}|BudgetFishingTripTests\\BudgetFishingTripTests.csproj|solutionrelative:budgetfishingtriptests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,27 +29,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBkAAAAIAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_BudgetFishingTrip\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:04:19.833Z"
+              "WhenOpened": "2025-04-04T05:30:46.251Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\BombTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BombTests\\UnitTest1.cs",
-              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\BombTests\\UnitTest1.cs",
-              "RelativeToolTip": "BombTests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\BudgetFishingTripTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BudgetFishingTripTests\\UnitTest1.cs",
+              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\BudgetFishingTripTests\\UnitTest1.cs",
+              "RelativeToolTip": "BudgetFishingTripTests\\UnitTest1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:02:56.197Z",
+              "WhenOpened": "2025-04-04T05:29:06.07Z",
               "EditorCaption": ""
             }
           ]
