@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C4693F-BD41-46DB-8377-1226FFC9379B}|BombTests\\BombTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\bombtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C4693F-BD41-46DB-8377-1226FFC9379B}|BombTests\\BombTests.csproj|solutionrelative:bombtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446D392-5D16-44C1-83D9-A3604AD7769A}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_Bomb\\Task_Bomb.csproj|c:\\softuni exercises\\cs exercises\\task_bomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_Bomb\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:04:19.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\BombTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BombTests\\UnitTest1.cs",
+              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\BombTests\\UnitTest1.cs",
+              "RelativeToolTip": "BombTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:02:56.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
