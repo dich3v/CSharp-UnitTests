@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BudgetForHolidayTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d7c2134271c6be358690f410eef80af9f2542b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36a8127f27410dd4e10d7374a5324f1f2fdc971e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BudgetForHolidayTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BudgetForHolidayTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
