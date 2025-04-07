@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BudgetFishingTripTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d899d000c993a3d4dc00d11626d1fa502d486ba3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d7c2134271c6be358690f410eef80af9f2542b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BudgetFishingTripTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BudgetFishingTripTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
