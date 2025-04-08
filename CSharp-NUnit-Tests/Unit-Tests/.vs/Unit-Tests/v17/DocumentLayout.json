@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B8F82D8-05DC-4B7E-B77C-C20F8681EAFD}|CardGameTests\\CardGameTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\cardgametests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B8F82D8-05DC-4B7E-B77C-C20F8681EAFD}|CardGameTests\\CardGameTests.csproj|solutionrelative:cardgametests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74D3E724-B420-4304-8B21-053317D2720F}|ConcatenatedWordsTests\\ConcatenatedWordsTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\concatenatedwordstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D3E724-B420-4304-8B21-053317D2720F}|ConcatenatedWordsTests\\ConcatenatedWordsTests.csproj|solutionrelative:concatenatedwordstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779A9ED1-5EC5-4274-9D0B-C53ED3C996B2}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Task_CardsGame.csproj|c:\\softuni exercises\\cs exercises\\task_cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9F0E707-D885-40C7-AD57-60686B8BC1AD}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Task_ConcatenatedWords.csproj|c:\\softuni exercises\\cs exercises\\task_concatenatedwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +31,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBkAAAAYAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_ConcatenatedWords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:04:29.668Z",
+              "WhenOpened": "2025-04-08T07:42:31.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CardGameTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CardGameTests\\UnitTest1.cs",
-              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CardGameTests\\UnitTest1.cs",
-              "RelativeToolTip": "CardGameTests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAABDAAAA",
+              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\ConcatenatedWordsTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ConcatenatedWordsTests\\UnitTest1.cs",
+              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\ConcatenatedWordsTests\\UnitTest1.cs",
+              "RelativeToolTip": "ConcatenatedWordsTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:03:43.117Z",
+              "WhenOpened": "2025-04-08T07:41:33.633Z",
               "EditorCaption": ""
             }
           ]
