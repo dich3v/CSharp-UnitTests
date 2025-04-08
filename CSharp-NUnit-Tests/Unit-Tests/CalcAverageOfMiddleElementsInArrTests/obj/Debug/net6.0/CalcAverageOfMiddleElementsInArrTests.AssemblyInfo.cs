@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcAverageOfMiddleElementsInArrTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36a8127f27410dd4e10d7374a5324f1f2fdc971e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+916708dbed8d800d2022d5536d5f40c3dacc3eb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcAverageOfMiddleElementsInArrTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcAverageOfMiddleElementsInArrTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

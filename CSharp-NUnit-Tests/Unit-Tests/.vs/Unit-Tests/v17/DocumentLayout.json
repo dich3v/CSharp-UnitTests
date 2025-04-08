@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8F28FE3-1C12-4C3D-B482-76371EA65B4E}|CalcAverageOfMiddleElementsInArrTests\\CalcAverageOfMiddleElementsInArrTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\calcaverageofmiddleelementsinarrtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8F28FE3-1C12-4C3D-B482-76371EA65B4E}|CalcAverageOfMiddleElementsInArrTests\\CalcAverageOfMiddleElementsInArrTests.csproj|solutionrelative:calcaverageofmiddleelementsinarrtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B8F82D8-05DC-4B7E-B77C-C20F8681EAFD}|CardGameTests\\CardGameTests.csproj|c:\\nunit tests\\csharp-nunit-tests\\unit-tests\\cardgametests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F82D8-05DC-4B7E-B77C-C20F8681EAFD}|CardGameTests\\CardGameTests.csproj|solutionrelative:cardgametests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527E562F-0AFD-4EA1-88F4-AC583D60F042}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Task_CalcAverageOfMiddleElementsInArr.csproj|c:\\softuni exercises\\cs exercises\\task_calcaverageofmiddleelementsinarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779A9ED1-5EC5-4274-9D0B-C53ED3C996B2}|..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Task_CardsGame.csproj|c:\\softuni exercises\\cs exercises\\task_cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +31,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "DocumentMoniker": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
+              "ToolTip": "C:\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Softuni exercises\\CS Exercises\\Task_CardsGame\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:31:40.545Z",
+              "WhenOpened": "2025-04-08T06:04:29.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CalcAverageOfMiddleElementsInArrTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CalcAverageOfMiddleElementsInArrTests\\UnitTest1.cs",
-              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CalcAverageOfMiddleElementsInArrTests\\UnitTest1.cs",
-              "RelativeToolTip": "CalcAverageOfMiddleElementsInArrTests\\UnitTest1.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDAAAABCAAAA",
+              "DocumentMoniker": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CardGameTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CardGameTests\\UnitTest1.cs",
+              "ToolTip": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CardGameTests\\UnitTest1.cs",
+              "RelativeToolTip": "CardGameTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:31:10.559Z",
+              "WhenOpened": "2025-04-08T06:03:43.117Z",
               "EditorCaption": ""
             }
           ]

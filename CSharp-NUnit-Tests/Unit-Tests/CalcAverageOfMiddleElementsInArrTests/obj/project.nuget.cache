@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jdFor1Mlt3lP7naXh8xFLGZOC+0EI2KmbFOvZnmI3rWWbKedHBaIsEDhqgR+igGOB32LytruiCUz21/cyGiqgg==",
+  "dgSpecHash": "crm5/1Pl2EOenfBs5ACKjDj+fliafteqtPzGQRMx1rP35j+K/fNEVKBE67IK+d0LRofNxqq2RW2a380vYcdBrA==",
   "success": true,
   "projectFilePath": "C:\\NUnit Tests\\CSharp-NUnit-Tests\\Unit-Tests\\CalcAverageOfMiddleElementsInArrTests\\CalcAverageOfMiddleElementsInArrTests.csproj",
   "expectedPackageFiles": [

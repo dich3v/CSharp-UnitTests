@@ -973,16 +973,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "Task_CalcAverageOfMiddleElementsInArr/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Task_CalcAverageOfMiddleElementsInArr.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Task_CalcAverageOfMiddleElementsInArr.dll": {}
-        }
       }
     }
   },
@@ -3966,11 +3956,6 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Task_CalcAverageOfMiddleElementsInArr/1.0.0": {
-      "type": "project",
-      "path": "../../../../Softuni exercises/CS Exercises/Task_CalcAverageOfMiddleElementsInArr/Task_CalcAverageOfMiddleElementsInArr.csproj",
-      "msbuildProject": "../../../../Softuni exercises/CS Exercises/Task_CalcAverageOfMiddleElementsInArr/Task_CalcAverageOfMiddleElementsInArr.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3979,7 +3964,6 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
       "NUnit3TestAdapter >= 4.2.1",
-      "Task_CalcAverageOfMiddleElementsInArr >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -4009,11 +3993,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Task_CalcAverageOfMiddleElementsInArr.csproj": {
-              "projectPath": "C:\\Softuni exercises\\CS Exercises\\Task_CalcAverageOfMiddleElementsInArr\\Task_CalcAverageOfMiddleElementsInArr.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
