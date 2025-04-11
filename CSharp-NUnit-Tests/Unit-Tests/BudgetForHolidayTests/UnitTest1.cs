@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using System;
-using Task_BudgetForHoliday;
+using Task04_BudgetForHoliday;
 
 namespace BudgetForHolidayTests
 {
