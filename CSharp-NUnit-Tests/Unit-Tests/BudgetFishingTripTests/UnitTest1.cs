@@ -1,6 +1,6 @@
 using NUnit.Framework;
-using CS_Exercises;
 using System;
+using Task03_BudgetFishingTrip;
 
 namespace FishingTripTests
 {
