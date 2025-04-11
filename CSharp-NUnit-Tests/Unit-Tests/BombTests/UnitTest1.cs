@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
-using Task_Bomb;
+using Task02_Bomb;
 
 namespace BombTests
 {
