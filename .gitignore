@@ -1,0 +1,71 @@
+# Visual Studio temporary files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+.idea/
+
+# Visual Studio build outputs
+bin/
+obj/
+out/
+[Bb]in/
+[Oo]bj/
+
+# .NET and NuGet
+*.cache
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+.nuget/
+NuGet/
+
+# NUnit Testing
+TestResults/
+*.trx
+*.xml
+coverage.*
+*.coverage
+*.coveragexml
+TestResult.xml
+nunit*.xml
+
+# Build and Publish
+publish/
+*.pubxml
+*.publishproj
+*.azurePubxml
+
+# Miscellaneous
+*.log
+*.bak
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# Ignore generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Ignore local environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore Rider (JetBrains) files if you use Rider
+*.idea/
+
+# Ignore VS Code settings if you use VS Code
+.vscode/
+
+# Ignore DLLs and other binaries
+*.dll
+*.exe
