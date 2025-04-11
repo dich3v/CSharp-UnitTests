@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using System;
-using Task_CalcAverageOfMiddleElementsInArr;
+using Task07_CalcAverageOfMiddleElementsInArr;
 
 namespace CalcAverageOfMiddleElementsInArrTests
 {
